@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="earl-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4c39dca1ac0779ba7178caea7f6c780bcb1e310a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4c39dca1ac0779ba7178caea7f6c780bcb1e310a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.einmalfel/earl/1.2.0/82b6e1ea0a092cb1fb40dc64a2c2b04e8698e319/earl-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

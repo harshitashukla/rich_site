@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="techcrunch">http://feeds.feedburner.com/TechCrunch/</string>
+    <!-- valid-->
+    <string name="komodo">http://feeds.feedburner.com/komodomedia</string>
+    <!-- valid-->
+    <string name="balu">http://feeds.feedburner.com/baluart</string>
+    <!-- valid-->
+    <string name="elweb">http://feeds2.feedburner.com/elwebmastercom</string>
+    <!-- valid-->
+    <string name="techradar">https://techradar1.wordpress.com/feed/</string>
+    <!-- valid-->
+    <string name="cnet">https://www.cnet.com/rss/news</string>
+    <!-- valid-->
+    <string name="life">http://feeds.feedburner.com/LifeHack/</string>
+    <!-- valid-->
+
+
+
+
+    <string name="fashionjobs">http://feeds.feedburner.com/Fashion_Jobs</string>
+    <!-- valid-->
+    <string name="fashionblogs">http://feeds.feedburner.com/blogspot/fashion_blogs </string>
+    <!-- valid-->
+    <string name="fashionindustry">http://feeds.feedburner.com/FashionIndustry </string>
+    <!-- valid-->
+    <string name="fashiongroups">http://feeds.feedburner.com/Fashion_Groups</string>
+    <!-- valid-->
+    <string name="fashionevents">http://feeds.feedburner.com/Fashion-Events-Calendar-Fashion-Network</string>
+    <!-- valid-->
+    <string name="apparelsearch">http://feeds.feedburner.com/Apparel_Search</string>
+    <!-- valid-->
+    <string name="spoonfulofstyle">http://feeds.feedburner.com/aspoonfulofstyle</string>
+    <!-- valid-->
+    <string name="fash365">http://www.fash365.com/feeds/posts/default</string>
+    <!--valid-->
+
+    <string name="bbcnewseducationandfamily">http://feeds.bbci.co.uk/news/education/rss.xml</string>
+    <!-- valid-->
+    <string name="bigideas">http://bigideas.berkeley.edu/feed/</string>
+    <!-- valid-->
+    <string name="bookbasset">http://feeds.feedburner.com/bookbasset</string>
+    <!-- valid-->
+    <string name="brainpickings"> http://feeds.feedburner.com/brainpickings/rss</string>
+    <!-- valid-->
+    <string name="creativityandinnovation">http://keithsawyer.wordpress.com/feed/</string>
+    <!-- valid-->
+    <string name="dolectures"> http://dolectures.com/feed/</string>
+    <!-- valid-->
+    <string name="learnanythingnetwork">http://feeds2.feedburner.com/LearnAnything</string>
+    <!-- valid-->
+    <string name="schooltech"> http://www.lockergnome.com/schooltech/feed/</string>
+    <!-- valid-->
+
+    <string name="hertwocents">http://hertwocents.com/feed/</string>
+    <!-- valid-->
+    <string name="calculatedrisk">http://feeds.feedburner.com/CalculatedRisk</string>
+    <!-- valid-->
+    <string name="nakedcapitalism">http://feeds.feedburner.com/NakedCapitalism</string>
+    <!-- valid-->
+    <string name="theatlantic"> http://feeds.feedburner.com/AtlanticBusinessChannel</string>
+    <!-- valid-->
+    <string name="entrepreneur">http://feeds.feedburner.com/entrepreneur/latest</string>
+    <!-- valid-->
+    <string name="hbr">www. http://feeds.harvardbusiness.org/harvardbusiness/</string>
+    <!-- valid-->
+    <string name="bw">http://www.businessweek.com/rss/bwdaily.rss</string>
+    <!-- valid-->
+    <string name="cb">http://feeds.washingtonpost.com/rss/capital_business</string>
+    <!-- valid-->
+
+    <string name="beautifulplace">http://feeds.feedburner.com/BeautifulPlacesToVisit</string>
+    <!-- valid-->
+    <string name="cheapest">http://feeds.feedburner.com/TimLeffelsCheapestDestinations</string>
+    <!-- valid-->
+    <string name="ibtimes">http://feeds.feedburner.com/Ibtimescom-Travel</string>
+    <!-- valid-->
+    <string name="theflight">http://feeds.feedburner.com/TheFlightDeal</string>
+    <!-- valid-->
+    <string name="gadling">http://www.gadling.com/rss.xml</string>
+    <!-- valid-->
+
+    <string name="cartoon">http://feeds.feedburner.com/CartoonBrew</string>
+    <!-- valid-->
+    <string name="split">http://feeds.feedburner.com/Splitsider</string>
+    <!-- valid-->
+    <string name="dilbert">http://feeds.feedburner.com/DilbertDailyStrip</string>
+    <!-- valid-->
+    <string name="daily">http://feeds.feedburner.com/dailytelegraphmusicndm</string>
+    <!-- valid-->
+    <string name="flowing">http://feeds.feedburner.com/FlowingData</string>
+    <!-- valid-->
+    <string name="panel">http://feeds.feedburner.com/panelsyndicate?format=xml</string>
+    <!-- valid-->
+
+    <string name="cookbook">http://www.101cookbooks.com/index.rdf</string>
+    <!-- valid-->
+    <string name="american">http://americandrink.net/rss</string>
+    <!-- valid-->
+    <string name="gardening"> http://growchew.wordpress.com/feed/</string>
+    <!-- valid-->
+    <string name="tastebook">http://www.tastebook.com/blog/feed/</string>
+    <!-- valid-->
+    <string name="recipes">http://mobile.eatingwell.com/taxonomy/term/960/all/feed</string>
+    <!-- valid-->
+    <string name="makeit">http://feeds.feedburner.com/eatingwell_make_it_tonight</string>
+    <!-- valid-->
+    <string name="cake">http://feeds.feedburner.com/CakeWrecks</string>
+    <!-- valid-->
+
+    <string name="abcnewsespn"> http://feeds.abcnews.com/abcnews/sportsheadlines</string>
+    <!-- valid-->
+    <string name="antaranews"> http://www.antaranews.com/en/rss/sports</string>
+    <!-- valid-->
+    <string name="washington">  http://feeds.washingtonpost.com/rss/sports/blogs-columns</string>
+    <!-- valid-->
+    <string name="espn">http://sports.espn.go.com/espn/rss/news</string>
+    <!-- valid-->
+    <string name="fark">http://www.fark.com/sports/fark.rss</string>
+    <!-- valid-->
+    <string name="forthewin"> http://ftw.usatoday.com/feed/</string>
+    <!-- valid-->
+    <string name="nbcsports">http://nbcsports.msnbc.com/id/3032112/device/rss/rss.xml</string>
+    <!-- valid-->
+
+    <string name="gotta">http://feeds.feedburner.com/Gottabemobile</string>
+    <!-- valid-->
+    <string name="tools">http://feeds.feedburner.com/toolsandtoys</string>
+    <!-- valid-->
+    <string name="techpin">http://feeds.feedburner.com/toolsandtoys</string>
+    <!-- valid-->
+    <string name="slash">http://feeds.feedburner.com/slashgear</string>
+    <!-- valid-->
+
+    <string name="news3">http://feeds.feedburner.com/co/Mvia</string>
+    <!-- valid-->
+    <string name="five">http://feeds.feedburner.com/538dotcom</string>
+    <!-- valid-->
+    <string name="rivva">http://feeds.feedburner.com/rivva</string>
+    <!-- valid-->
+    <string name="abc">http://feeds.abcnews.com/abcnews/topstories</string>
+    <!-- valid-->
+    <string name="boing">http://feeds.feedburner.com/boingboing/iBag</string>
+    <!-- valid-->
+    <string name="cbs">http://www.cbsnews.com/feeds/rss/main.rss</string>
+    <!-- valid-->
+    <string name="bbcnews">http://feeds.bbci.co.uk/news/rss.xml</string>
+    <!-- valid-->
+    <string name="cbc">http://rss.cbc.ca/lineup/topstories.xml</string>
+    <!-- valid-->
+
+    <string name="medindia">http://feeds2.feedburner.com/allhealthnews</string>
+    <!-- valid-->
+    <string name="latestdiet">http://feeds2.feedburner.com/LatestDietNews</string>
+    <!-- valid-->
+    <string name="latestdrug">http://feeds2.feedburner.com/LatestDrugNews</string>
+    <!-- valid-->
+    <string name="latestmental">http://feeds2.feedburner.com/LatestMentalHealthNews</string>
+    <!-- valid-->
+    <string name="latestdiabetes">http://feeds2.feedburner.com/LatestDiabetesNews</string>
+    <!-- valid-->
+    <string name="latestwomen">http://feeds2.feedburner.com/LatestWomenHealthNews</string>
+    <!-- valid-->
+    <string name="latestmen">http://feeds2.feedburner.com/LatestMensHealthNews</string>
+    <!-- valid-->
+    <string name="latestchild">http://feeds2.feedburner.com/LatestChildHealthNews</string>
+    <!-- valid-->
+
+    <string name="thedaily">http://feeds.feedburner.com/andrewsullivan/rApM</string>
+    <!-- valid-->
+    <string name="theatlanti">http://feeds.feedburner.com/AtlanticPoliticsChannel</string>
+    <!-- valid-->
+    <string name="liberal">http://feeds.feedburner.com/liberalconspiracy</string>
+    <!-- valid-->
+    <string name="weekly">http://weeklysift.com/feed/</string>
+    <!-- valid-->
+    <string name="newstates">http://www.newstatesman.com/feeds/contents.rssl</string>
+    <!-- valid-->
+    <string name="snow">http://blogs.channel4.com/snowblog/feed/</string>
+    <!-- valid-->
+    <string name="political">http://politicalwire.com/headlines.xml</string>
+    <!-- valid-->
+
+</resources>
